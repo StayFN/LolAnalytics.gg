@@ -17,7 +17,6 @@ def print_matches(name: str, region: str):
     match_history = cass.get_match_history(
         continent=summoner.region.continent,
         puuid=summoner.puuid,
-        queue=Queue.ranked_solo_fives,
         begin_index = 0,
         end_index = 100)
     
