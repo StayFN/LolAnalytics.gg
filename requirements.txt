@@ -1,4 +1,5 @@
 numpy
 pandas
-networkx
-numpy
+networkx>=2.7
+matplotlib
+scipy>=1.8

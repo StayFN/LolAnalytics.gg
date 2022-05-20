@@ -17,8 +17,9 @@ Social network analysis (SNA) is the process of investigating social structures 
   - or installing the following modules manually
     - numpy
     - pandas
-    - networkx
+    - networkx (2.7 or newer)
     - matplotlib
+    - scipy (1.8 or newer)
 - run preprocessing notebooks if needed
 - run analysis notebooks
 
