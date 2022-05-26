@@ -22,6 +22,8 @@ Social network analysis (SNA) is the process of investigating social structures 
     - scipy (1.8 or newer)
 - run preprocessing notebooks if needed
 - run analysis notebooks
+    - Analysis_Dataset_Composition to exlore the data itself
+    - Data_analysis_proAndAverage_players to explore the graphs and communities
 
 ## Libraries
 - cassiopia: library to access the RIOT Api in an oo way
